@@ -1870,3 +1870,232 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.04-05.42.41:631][893]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.04-05.42.41:631][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.11.04-05.42.41:631][893]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.44.00:586][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.11.04-05.44.00:608][657]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap326027FD416D8E34C95FBF83F9C9EE5F.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.44.00:611][657]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.44.00:693][657]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData6A71F8FB4068495C8ED83DA01D756A4C.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.44.00:694][657]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.44.00:705][657]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.44.00:705][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.44.00:705][657]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.44.33:667][700]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.04-05.44.33:674][700]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.04-05.44.33:688][700]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.04-05.44.47:738][326]LogContentBrowser: Attempting asset rename: NewBlueprint -> TriggerDetonation
+[2021.11.04-05.44.47:742][326]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.04-05.44.52:262][828]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TriggerDetonation.TriggerDetonation
+[2021.11.04-05.47.03:907][514]BlueprintLog: New page: Compile TriggerDetonation
+[2021.11.04-05.47.04:378][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.04-05.47.05:453][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.04-05.47.05:492][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TriggerDetonation" FILE="../../../../UnrealEngine Projects/Lessons_7_8/Content/TriggerDetonation.uasset" SILENT=true
+[2021.11.04-05.47.05:500][593]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/TriggerDetonationB6D4F4904D19B8A6F63985A09A96DDAA.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/TriggerDetonation.uasset'
+[2021.11.04-05.47.05:517][593]AssetCheck: New page: Asset Save: TriggerDetonation
+[2021.11.04-05.47.05:517][593]LogContentValidation: Display: Validating Blueprint /Game/TriggerDetonation.TriggerDetonation
+[2021.11.04-05.47.33:901][478]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.04-05.48.55:965][492]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.11.04-05.50.27:379][ 76]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.04-05.50.27:472][ 77]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.11.04-05.50.32:965][538]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.04-05.51.07:940][113]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.51.07:987][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.04-05.51.19:048][185]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.51.19:088][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.04-05.51.24:540][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.04-05.51.24:545][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.04-05.51.24:545][761]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 3, 2021, 3:51:24 PM)
+[2021.11.04-05.51.24:581][761]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.51.24:594][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013074s)
+[2021.11.04-05.51.24:595][761]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.04-05.51.24:596][761]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2021.11.04-05.51.24:596][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014828s)
+[2021.11.04-05.51.24:624][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.04-05.51.24:625][761]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.04-05.51.24:625][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.04-05.51.24:625][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.04-05.51.24:626][761]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.04-05.51.24:626][761]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.04-05.51.24:629][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.04-05.51.24:629][761]LogAudioMixer: Display: 1: FrontRight
+[2021.11.04-05.51.24:645][761]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.04-05.51.24:645][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.04-05.51.24:645][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.04-05.51.24:645][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.04-05.51.24:645][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.04-05.51.24:645][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.04-05.51.24:646][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.04-05.51.24:646][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.04-05.51.24:646][761]LogInit: FAudioDevice initialized.
+[2021.11.04-05.51.24:646][761]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.11.04-05.51.24:654][761]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.04-05.51.24:655][761]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.03-22.51.24
+[2021.11.04-05.51.24:656][761]LogWorld: Bringing up level for play took: 0.001662
+[2021.11.04-05.51.24:656][761]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.11.04-05.51.24:658][761]PIE: Server logged in
+[2021.11.04-05.51.24:658][761]PIE: Play in editor total start time 0.115 seconds.
+[2021.11.04-05.51.26:687][981]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.11.04-05.51.45:797][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.51.45:797][213]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.51.45:797][213]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.51.45:799][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.51.45:821][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.04-05.51.45:842][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.51.45:868][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.04-05.51.45:868][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.51.45:869][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.51.45:871][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.51.45:875][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.11.04-05.51.45:897][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.11.04-05.51.45:923][214]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.11.04-05.51.48:095][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.04-05.51.48:118][455]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap45FBA9E145523E4839D4639330F1994A.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.51.48:121][455]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.51.48:200][455]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData4218003B4CD38A891FB799A2A9CF75DA.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.51.48:201][455]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.51.48:218][455]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.51.48:218][455]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.51.48:218][455]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.03:603][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.04-05.52.03:624][370]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap5B8BCC5E4C00F66B042726B4722B27B4.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.03:632][370]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.03:711][370]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltDataFD2EAB7B413BA915134B4EAEC0FADF84.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.03:712][370]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.03:723][370]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.03:723][370]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.03:723][370]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.04:158][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.04-05.52.04:162][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.04-05.52.04:162][422]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 3, 2021, 3:52:04 PM)
+[2021.11.04-05.52.04:211][422]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.52.04:230][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018718s)
+[2021.11.04-05.52.04:231][422]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.04-05.52.04:232][422]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2021.11.04-05.52.04:232][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020338s)
+[2021.11.04-05.52.04:257][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.11.04-05.52.04:258][422]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.04-05.52.04:258][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.04-05.52.04:258][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.04-05.52.04:259][422]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.04-05.52.04:259][422]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.04-05.52.04:262][422]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.04-05.52.04:262][422]LogAudioMixer: Display: 1: FrontRight
+[2021.11.04-05.52.04:276][422]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.04-05.52.04:277][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.04-05.52.04:277][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.04-05.52.04:277][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.04-05.52.04:278][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.04-05.52.04:278][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.04-05.52.04:279][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.04-05.52.04:279][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.04-05.52.04:279][422]LogInit: FAudioDevice initialized.
+[2021.11.04-05.52.04:279][422]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2021.11.04-05.52.04:287][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.04-05.52.04:289][422]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.03-22.52.04
+[2021.11.04-05.52.04:289][422]LogWorld: Bringing up level for play took: 0.001627
+[2021.11.04-05.52.04:289][422]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.04-05.52.04:291][422]PIE: Server logged in
+[2021.11.04-05.52.04:292][422]PIE: Play in editor total start time 0.13 seconds.
+[2021.11.04-05.52.19:062][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.52.19:062][116]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.52.19:063][116]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.52.19:063][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.52.19:073][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.04-05.52.19:081][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.52.19:102][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.04-05.52.19:102][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.52.19:103][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.52.19:106][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.52.19:110][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.11.04-05.52.19:133][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.11.04-05.52.19:159][117]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.04-05.52.20:303][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.04-05.52.20:326][240]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap664A71B741FFDE22054D48B248409A71.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.20:333][240]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.20:413][240]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData55DF175847181CF70CEE89BAF64020F0.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.20:413][240]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.20:424][240]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.20:424][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.20:424][240]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.21:407][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.04-05.52.25:582][477]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.52.25:631][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.11.04-05.52.26:145][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.11.04-05.52.26:167][515]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap1E1332F64CB88DA3B93C8C8CC2F77297.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.26:174][515]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.26:253][515]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData3DFDEB94468285E6C57252B5FCF0EE0F.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.26:254][515]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.26:254][515]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.134
+[2021.11.04-05.52.26:266][515]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.26:266][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.26:266][515]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.27:494][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.04-05.52.28:117][659]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.52.28:122][659]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.52.28:123][659]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.52.28:123][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.52.28:167][659]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.52.28:167][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.52.29:871][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.04-05.52.40:787][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.04-05.52.40:810][768]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap6A8B7D53483AC442BBE55A923C4EEAAD.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.40:813][768]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.40:891][768]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData97F7E3DA4B5D633B6F9A93AF3C294A04.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.40:892][768]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.40:905][768]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.40:905][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.40:905][768]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.42:723][821]LogSlate: Window 'Save Level As' being destroyed
+[2021.11.04-05.52.44:110][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.11.04-05.52.45:643][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.04-05.52.45:665][ 67]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap242A286E4AEF37C1022930AF77540C4B.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.45:672][ 67]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.45:756][ 67]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltDataF34707884D9DD3CF0F6A838842D2E868.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.45:757][ 67]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.45:775][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.45:775][ 67]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.45:775][ 67]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.46:571][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.04-05.52.46:609][135]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap7F4B16D242DD63FFADE731A748C14B9A.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.46:616][135]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.46:694][135]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData3297BB5C4E878F928B0728A2EC673310.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.46:695][135]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.46:713][135]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.46:713][135]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.46:713][135]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.52.46:951][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.04-05.52.46:972][150]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap4F0941DB4C8039D5D1DC689682BB7FBD.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.52.46:975][150]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.47:054][150]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData952F81644E8EC8A8C77BD2B1B023FC4C.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.52.47:055][150]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.47:073][150]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.52.47:073][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.52.47:073][150]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
