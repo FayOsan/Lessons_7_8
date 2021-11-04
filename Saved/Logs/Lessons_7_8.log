@@ -1442,3 +1442,166 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.04-05.07.14:559][680]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.11.04-05.07.14:559][680]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.11.04-05.07.16:553][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.04-05.11.40:498][381]LogActorFactory: Actor Factory created Cube
+[2021.11.04-05.11.40:505][381]LogActorFactory: Actor Factory created Cube
+[2021.11.04-05.11.40:754][409]LogActorFactory: Actor Factory created Cube
+[2021.11.04-05.11.40:754][409]LogActorFactory: Actor Factory created Cube
+[2021.11.04-05.13.16:943][603]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.11.04-05.13.57:684][446]Cmd: TRANSACTION UNDO
+[2021.11.04-05.13.57:684][446]LogEditorTransaction: Undo Add New Function
+[2021.11.04-05.15.22:617][196]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.15.22:621][196]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.15.22:647][196]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.15.22:647][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.15.29:200][831]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.11.04-05.15.34:356][  7]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.15.34:396][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.11.04-05.17.51:095][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.04-05.17.51:114][889]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_Auto1AB94EFCE472ACA06668E7C8DE3D47A89.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.11.04-05.17.51:115][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2021.11.04-05.17.51:115][889]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.11.04-05.24.39:673][136]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.24.39:729][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.04-05.24.53:538][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.04-05.24.53:542][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.04-05.24.53:542][372]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 3, 2021, 3:24:53 PM)
+[2021.11.04-05.24.53:585][372]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.24.53:616][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029978s)
+[2021.11.04-05.24.53:617][372]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.04-05.24.53:617][372]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2021.11.04-05.24.53:617][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031883s)
+[2021.11.04-05.24.53:640][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.11.04-05.24.53:642][372]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.04-05.24.53:642][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.04-05.24.53:642][372]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.04-05.24.53:642][372]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.04-05.24.53:646][372]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.04-05.24.53:646][372]LogAudioMixer: Display: 1: FrontRight
+[2021.11.04-05.24.53:661][372]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.04-05.24.53:662][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.04-05.24.53:662][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.04-05.24.53:662][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.04-05.24.53:663][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.04-05.24.53:663][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.04-05.24.53:663][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.04-05.24.53:664][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.04-05.24.53:664][372]LogInit: FAudioDevice initialized.
+[2021.11.04-05.24.53:664][372]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.11.04-05.24.53:671][372]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.04-05.24.53:672][372]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.03-22.24.53
+[2021.11.04-05.24.53:672][372]LogWorld: Bringing up level for play took: 0.001476
+[2021.11.04-05.24.53:672][372]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.11.04-05.24.53:674][372]PIE: Server logged in
+[2021.11.04-05.24.53:675][372]PIE: Play in editor total start time 0.134 seconds.
+[2021.11.04-05.24.53:729][373]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.11.04-05.24.59:531][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.24.59:531][  3]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.24.59:531][  3]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.24.59:532][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.24.59:553][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.04-05.24.59:576][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.24.59:599][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.04-05.24.59:599][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.24.59:600][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.24.59:602][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.24.59:606][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.11.04-05.24.59:626][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.04-05.24.59:649][  4]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.11.04-05.25.02:520][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.04-05.25.02:525][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.04-05.25.02:526][325]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 3, 2021, 3:25:02 PM)
+[2021.11.04-05.25.02:566][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.25.02:580][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013647s)
+[2021.11.04-05.25.02:581][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.04-05.25.02:581][325]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2021.11.04-05.25.02:581][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015052s)
+[2021.11.04-05.25.02:605][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.04-05.25.02:606][325]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.04-05.25.02:606][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.04-05.25.02:606][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.04-05.25.02:606][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.04-05.25.02:606][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.04-05.25.02:606][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.04-05.25.02:607][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.04-05.25.02:607][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.04-05.25.02:607][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.04-05.25.02:607][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.04-05.25.02:607][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.04-05.25.02:610][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.04-05.25.02:610][325]LogAudioMixer: Display: 1: FrontRight
+[2021.11.04-05.25.02:624][325]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.04-05.25.02:624][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.04-05.25.02:624][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.04-05.25.02:624][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.04-05.25.02:625][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.04-05.25.02:625][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.04-05.25.02:626][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.04-05.25.02:626][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.04-05.25.02:626][325]LogInit: FAudioDevice initialized.
+[2021.11.04-05.25.02:626][325]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.11.04-05.25.02:638][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.04-05.25.02:639][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.03-22.25.02
+[2021.11.04-05.25.02:639][325]LogWorld: Bringing up level for play took: 0.001459
+[2021.11.04-05.25.02:639][325]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.11.04-05.25.02:641][325]PIE: Server logged in
+[2021.11.04-05.25.02:642][325]PIE: Play in editor total start time 0.117 seconds.
+[2021.11.04-05.25.07:479][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.25.07:479][859]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.04-05.25.07:479][859]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.25.07:479][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.25.07:489][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.04-05.25.07:519][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.25.07:538][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.04-05.25.07:539][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.25.07:539][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.04-05.25.07:544][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.11.04-05.25.07:565][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.11.04-05.25.07:595][860]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.04-05.25.10:445][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.04-05.25.10:465][154]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMapEB5A2F1F4054C642838C1F8FAB515494.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.25.10:468][154]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.10:547][154]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData080B1B5F444ABEFA92BFF3BC245D2919.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.25.10:548][154]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.10:559][154]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.25.10:559][154]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.10:559][154]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.25.11:731][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.11.04-05.25.13:819][386]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.25.13:852][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.04-05.25.15:525][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.04-05.25.15:582][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.04-05.25.15:602][503]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap716192DC4969EB27A6DD258454FD5A70.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.25.15:609][503]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.15:687][503]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData6FAC62584077028CC8557E9F44A3737A.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.25.15:688][503]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.15:688][503]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.126
+[2021.11.04-05.25.15:699][503]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.25.15:699][503]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.15:699][503]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.25.16:284][554]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.25.16:288][554]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.25.16:290][554]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.25.16:290][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.25.17:207][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.04-05.25.17:237][645]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap2AFB03D74E29D36E6B8012996BA5870F.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.25.17:240][645]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.17:319][645]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltDataDC3E8EF34A205AAD900A299C5DD5CB29.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.25.17:320][645]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.17:331][645]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.25.17:331][645]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.25.17:331][645]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.25.18:394][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.11.04-05.25.21:456][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
