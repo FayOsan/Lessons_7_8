@@ -1403,3 +1403,42 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.04-04.58.34:008][353]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.04-04.58.34:008][353]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.11.04-04.58.34:008][353]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.07.10:356][311]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.11.04-05.07.10:400][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.04-05.07.10:693][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.04-05.07.10:712][336]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMapC93668684A0D546D8ECD898B85456F22.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.07.10:714][336]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.11:024][336]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData617A53984AA55E59209ACF999384E4EB.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.07.11:025][336]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.11:025][336]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.358
+[2021.11.04-05.07.11:036][336]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.07.11:036][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.11:036][336]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.07.11:912][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.04-05.07.11:929][426]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap0605565C475FC820109DE4A94246A3D3.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.07.11:932][426]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.12:011][426]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltDataE8386D3145738F5AB76A30881FC656C5.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.07.12:012][426]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.12:012][426]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.124
+[2021.11.04-05.07.12:023][426]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.07.12:023][426]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.12:023][426]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.07.13:259][561]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.07.13:266][561]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.11.04-05.07.13:298][561]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.04-05.07.13:299][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.04-05.07.14:439][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.11.04-05.07.14:461][680]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap3B7F3775492A2F72D77259B4BD2F3B45.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.04-05.07.14:468][680]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.14:547][680]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lessons_7_8/Saved/ThirdPersonExampleMap_BuiltData52A2C9EB4CBE08461A8FA5872D5430DB.tmp' to '../../../../UnrealEngine Projects/Lessons_7_8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.04-05.07.14:548][680]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.14:559][680]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.04-05.07.14:559][680]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.04-05.07.14:559][680]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.04-05.07.16:553][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
